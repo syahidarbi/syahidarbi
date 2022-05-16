@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syahidarbi
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data repoerting
+- 🌱 I’m currently learning data reporting
 - 💞️ I’m looking to collaborate on data team
 - 📫 How to reach me https://www.linkedin.com/in/syahid-arbi-16360919b
 
